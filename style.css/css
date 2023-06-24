@@ -1,0 +1,27 @@
+.background{
+    background-color: orangered;
+}
+
+.main_container{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.name_list{
+    align-items: flex-start;
+}
+
+.card{
+    font-family: elvetica;
+    flex-wrap: wrap;
+    color: black;
+    align-items: center;
+    border-color: grey;
+    row-gap: 10px;
+}
+
+.text-decoration{
+    color:red;
+    text-decoration: dashed;
+}
